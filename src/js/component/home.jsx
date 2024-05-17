@@ -16,26 +16,26 @@ const Home = () => {
 		<>
 
 			<Navbar />
-						
+
 			<div className="container mt-3">
-			<Jumbotron></Jumbotron> 
+				<Jumbotron />
 				<div className="row mt-4 mb-5">
 					<div className="col-sm d-flex justify-content-center mt-4">
-						<Card></Card>
+						<Card />
 					</div>
 					<div className="col-sm d-flex justify-content-center mt-4">
-						<Card></Card>
+						<Card />
 					</div>
 					<div className="col-sm d-flex justify-content-center mt-4">
-						<Card></Card>
+						<Card />
 					</div>
 					<div className="col-sm d-flex justify-content-center mt-4">
-						<Card></Card>
+						<Card />
 					</div>
 				</div>
 			</div>
 			<div className="mt-5">
-			<Footer />
+				<Footer />
 			</div>
 
 
